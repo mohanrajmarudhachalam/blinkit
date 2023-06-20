@@ -1,0 +1,21 @@
+{
+  "name": "react-native-flash-swiper",
+  "version": "1.0.3",
+  "summary": "React Native Flash Swiper, swiper component.",
+  "license": "MIT",
+  "authors": "Bedirhan GUL <dev.bedirhangul@gmail.com>",
+  "homepage": "https://github.com/bedirhangull/react-native-flash-swiper#readme",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/bedirhangull/react-native-flash-swiper.git",
+    "tag": "v1.0.3"
+  },
+  "source_files": "ios/**/*.{h,m,swift}",
+  "dependencies": {
+    "React": [
+
+    ]
+  }
+}

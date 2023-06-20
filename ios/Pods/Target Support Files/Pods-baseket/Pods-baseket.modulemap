@@ -1,0 +1,6 @@
+module Pods_baseket {
+  umbrella header "Pods-baseket-umbrella.h"
+
+  export *
+  module * { export * }
+}

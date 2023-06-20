@@ -1,0 +1,6 @@
+module react_native_flash_swiper {
+  umbrella header "react-native-flash-swiper-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module Pods_baseket_baseketTests {
+  umbrella header "Pods-baseket-baseketTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
